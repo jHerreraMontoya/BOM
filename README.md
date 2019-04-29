@@ -9,8 +9,7 @@ _• v1.0.0 - Se añade los ficheros correspondiente a la realización de la pr�
  En este archivo encontramos las referencias a los diferentes ficheros:
       •index.html
       •css/micss.css
-      •imagenes/ con las imagenes pertenecientes a las diferentes 
-      categorias, producciones, actores, directos y logo de la página
+      •imagenes/ con las imagenes pertenecientes a las diferentes categorias, producciones, actores, directos y logo de la página
       •js/BaseException.js
       •js/VideoSystemObjects.js
       •js/VideoSystem.js
